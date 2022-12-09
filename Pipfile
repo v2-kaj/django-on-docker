@@ -8,6 +8,8 @@ django = "*"
 django-environ = "*"
 "backports.weakref" = "*"
 psycopg2 = "*"
+gunicorn = "*"
+config = "*"
 
 [dev-packages]
 
